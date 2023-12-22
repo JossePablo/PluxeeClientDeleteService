@@ -50,4 +50,4 @@ jobs:
           app-name: 'PluxeeClientDeleteService'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_002EBAEE455D432780D0434277CBA889 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA863CEC83D54244BEAFBEDE6676E872 }}
